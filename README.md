@@ -1,4 +1,4 @@
-# 🇵🇸 Palestinian Food App
+# 🇵🇸 Palestinian Flavor
 
 > **Note:** This is a **showcase repository only**.  
 > The source code is **private** and not publicly available.  
