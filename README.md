@@ -5,7 +5,7 @@
 > If you're interested in a live demo or collaboration, feel free to reach out.
 
 - [Google Play](https://play.google.com/store/apps/details?id=com.hazzembadran.palestinianflavor) 
-
+-  [Soon in App Store](https://www.apple.com/app-store/)
 ---
 
 ## 📖 Overview
